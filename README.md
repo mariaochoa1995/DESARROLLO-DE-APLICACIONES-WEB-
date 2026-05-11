@@ -1,2 +1,4 @@
 # DESARROLLO-DE-APLICACIONES-WEB-
-Repositorio para almacenar todos los trabajos de la materia de Desarrollo de Aplicaciones Web
+Nombre: Maria Ochoa
+Curso: TI-ONLINE
+Actividad 1
